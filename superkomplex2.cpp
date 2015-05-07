@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    std::cout << "Moin Moin222" << std::endl;
+    std::cout << "Moin Moin" << std::endl;
 	return 0; 
 }
